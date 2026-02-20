@@ -1,4 +1,5 @@
 👟 Adidas US Sales Performance Analysis
+
 📌 Project Overview
 This project provides a comprehensive analysis of Adidas sales performance across the United States. Using a dataset of over 9,000 transactions, I developed a dynamic Power BI dashboard to help stakeholders identify regional sales trends, product demand, and profitability across various sales channels and retailers.
 
